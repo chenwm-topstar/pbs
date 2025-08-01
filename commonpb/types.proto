@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "github.com/chenwm-topstar/chargingc/pbs/commonpb";
+option go_package = "github.com/chenwm-topstar/pbs/commonpb";
 
 package evsepb;
 

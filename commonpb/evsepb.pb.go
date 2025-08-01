@@ -1881,5 +1881,5 @@ var _EvseService_serviceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "github.com/chenwm-topstar/chargingc/pbs/commonpb/evsepb.proto",
+	Metadata: "github.com/chenwm-topstar/pbs/commonpb/evsepb.proto",
 }

@@ -16,10 +16,10 @@ syntax = "proto3";
 
 package evsepb;
 
-option go_package = "github.com/chenwm-topstar/chargingc/pbs/commonpb";
+option go_package = "github.com/chenwm-topstar/pbs/commonpb";
 
 // import "github.com/mwitkow/go-proto-validators/validator.proto";
-import "github.com/chenwm-topstar/chargingc/pbs/commonpb/types.proto";
+import "github.com/chenwm-topstar/pbs/commonpb/types.proto";
 
 /**
  MessageID
