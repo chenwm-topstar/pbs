@@ -16,9 +16,9 @@
 // versions:
 // 	protoc-gen-go v1.26.0
 // 	protoc        v3.19.4
-// source: github.com/chenwm-topstar/chargingc/pbs/evsepb/evse_ctrl.proto
+// source: github.com/chenwm-topstar/chargingc/pbs/commonpb/evse_ctrl.proto
 
-package evsepb
+package commonpb
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"

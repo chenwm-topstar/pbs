@@ -1,11 +1,11 @@
 syntax = "proto3";
-option go_package = "github.com/chenwm-topstar/chargingc/pbs/commonpb";
+option go_package = "github.com/chenwm-topstar/pbs/commonpb";
 
-package evsepb;
+package commonpb;
 
 import "github.com/mwitkow/go-proto-validators/validator.proto";
-import "github.com/chenwm-topstar/chargingc/pbs/commonpb/types.proto";
-import "github.com/chenwm-topstar/chargingc/pbs/commonpb/evse_ctrl.proto";
+import "github.com/chenwm-topstar/pbs/commonpb/types.proto";
+import "github.com/chenwm-topstar/pbs/commonpb/evse_ctrl.proto";
 
 // EvseService 设备服务
 service EvseService {

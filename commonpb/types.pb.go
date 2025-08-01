@@ -4,7 +4,7 @@
 // 	protoc        v3.19.4
 // source: github.com/chenwm-topstar/chargingc/pbs/evsepb/types.proto
 
-package evsepb
+package commonpb
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
